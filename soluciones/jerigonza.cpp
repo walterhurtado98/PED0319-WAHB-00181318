@@ -19,22 +19,20 @@ void jerigonzaP(string word, int size, int pos){
     if(size == pos)
     return;
     else{
-        if(word[pos] == 'a' ||
-           word[pos] == 'A' ||
-           word[pos] == 'e' ||
-           word[pos] == 'E' ||
-           word[pos] == 'i' ||
-           word[pos] == 'I' ||
-           word[pos] == 'o' ||
-           word[pos] == 'O' ||
-           word[pos] == 'u' ||
-           word[pos] == 'U' ||){
-               cout << word[pos] << "p" << word[pos];
+        if(word[pos] == 'a' ||  word[pos] == 'A' ||
+           word[pos] == 'e' ||  word[pos] == 'E' ||
+           word[pos] == 'i' ||  word[pos] == 'I' ||
+           word[pos] == 'o' ||  word[pos] == 'O' ||
+           word[pos] == 'u' ||  word[pos] == 'U' )
+		   {
+		     cout << word[pos] << "p" << word[pos];
+		     cout<<""<<endl;
            }
-           else
+           else{
+		   
               cout << word[pos];
 
-              jerigonzaP(word, size, pos + 1);
+              jerigonzaP(word, size, pos + 1);}
            
     }
 }

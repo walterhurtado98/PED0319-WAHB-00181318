@@ -5,7 +5,7 @@ void invertirArreglos(int* A, int* B, int size);
 
 int main(void){
     int size = 0;
-    cout << "Tamaño de arreglos: "; cin >> size;
+    cout << "Tamano de arreglos: "; cin >> size;
 
     if(size < 2){
         cout << "ERROR" << endl;
@@ -19,7 +19,7 @@ int main(void){
         cout << "Valor: "; cin >> A[i];
     }
 
-
+    invertirArreglos(A , B ,size);
 
    for(int i = 0; i < size; i++){
        cout << "Arreglo A: " << A[i] << endl;

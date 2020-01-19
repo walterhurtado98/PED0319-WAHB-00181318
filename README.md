@@ -2,16 +2,16 @@
 
 ## Walter Alejandro Hurtado Bonilla
 
-## Laboratorio 01
+## Laboratorio 02
 
 ### Observaciones al instructor
-* Desarrolla los temas de una forma clara
-* Se toma el tiempo para explicar algo si no se llega a entender
+* Integra conocimientos del ambito laboral a los ejercicios 
+* Explica de forma estructurada los programas 
 * Facilita al estudiante medios de consulta
 
 ## Dificultades en ejercicios de tarea
-* Se me dificulta un poco la sintaxis de punteros
-* Algunos enunciados no son muy especificos 
-* No he logrado a entender del todo: Datos por valor y referencia
+* Problemas al integrar las funciones 
+* Desconozco algunos aspectos relevantes para resolver los problemas
+* Los enunciados no especificaban la cantidad de usuarios
 
 
