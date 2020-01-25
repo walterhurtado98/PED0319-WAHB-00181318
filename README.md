@@ -2,16 +2,16 @@
 
 ## Walter Alejandro Hurtado Bonilla
 
-## Laboratorio 02
+## Laboratorio 05
 
 ### Observaciones al instructor
-* Integra conocimientos del ambito laboral a los ejercicios 
-* Explica de forma estructurada los programas 
+* Da espacios de participacion en clase 
+* Aplica todo tipo de temas vistos en clase  
 * Facilita al estudiante medios de consulta
 
 ## Dificultades en ejercicios de tarea
-* Problemas al integrar las funciones 
+* El programar pilas desde cero se me dificulta 
 * Desconozco algunos aspectos relevantes para resolver los problemas
-* Los enunciados no especificaban la cantidad de usuarios
+* No logro comprender el funcionamiento interno de nodos
 
 
